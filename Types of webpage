@@ -1,0 +1,4 @@
+From the perspective of server-side website deployment, there are two types of web pages: static and dynamic.
+Static pages are retrieved from the web server's file system without any modification.  
+Dynamic pages must be created by the web server on the fly, typically drawing from a database to fill out a web template, 
+before being sent to the user's browser.
