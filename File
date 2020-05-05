@@ -5,3 +5,11 @@ Folders provide a method for organizing files much like a manila file folder con
 In fact, files that contain text are often called documents.
 
 A file processing system is a collection of programs that store and manage files in computer hard-disk. On the other hand, A database management system is collection of programs that enables to create and maintain a database. File processing system has more data redundancy, less data redundancy in dbms.
+A few of the more common file formats are:
+Word documents (. doc)
+Web text pages (. htm or . html)
+Web page images (. gif and . jpg)
+Adobe Postcript files (. ps)
+Adobe Acrobat files (. pdf)
+Executable programs (.exe)
+Multimedia files (. mp3 and others)
