@@ -3,3 +3,5 @@ a folder or box for holding loose papers that are typically arranged in a partic
 A file is the common storage unit in a computer, and all programs and data are "written" into a file and "read" from a file. 
 Folders provide a method for organizing files much like a manila file folder contains paper documents in a file cabinet. 
 In fact, files that contain text are often called documents.
+Relative-record-number processing. Consecutive processing. Sequential-by-key processing. Random-by-key processing.
+A file processing system is a collection of programs that store and manage files in computer hard-disk. On the other hand, A database management system is collection of programs that enables to create and maintain a database. File processing system has more data redundancy, less data redundancy in dbms.
