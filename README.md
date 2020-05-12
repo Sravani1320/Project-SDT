@@ -1,2 +1,2 @@
 # Project-SDT
-Final Project
+Learning how to use github
